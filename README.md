@@ -20,12 +20,19 @@ This project was my first experience doing a shell (a mini UNIX command interpre
 - A promt that reprints itself when a command finishes execution;
 - It executes any command found on the PATH provided by the environment and a few builtins:
  . cd
+ 
  . env
+ 
  . setenv
+ 
  . unsetenv
+ 
  . exit
+ 
  . 8 (that's an eight ball command)
+ 
  . lozenge (that is just a sweet personal touch to the shell)
+ 
 - It manages the expansions $ and ˜
 
 ### &#9674; How to run It:
