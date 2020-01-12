@@ -1,5 +1,5 @@
 # &#9674; M I N I S H E L L &#9674;
-[========]
+------------
 
 ![](https://github.com/marina-mar/minishell/blob/master/preview.gif?raw=true)
 
@@ -10,7 +10,7 @@
 This project was my first experience doing a shell (a mini UNIX command interpreter) and managing process creation and synchronisation. I followed [-> this subject <-]( process creation and synchronisation "-> this subject <-") rules to develop the shell.
 
 
-[========]
+------------
 
 
 ### &#9674; Features
