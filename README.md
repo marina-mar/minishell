@@ -7,7 +7,7 @@
 
 
 ## . A little bit of shell .
-This project was my first experience doing a shell (a mini UNIX command interpreter) and managing process creation and synchronisation. I followed [-> this subject <-]( process creation and synchronisation "-> this subject <-") rules to develop the shell.
+This project was my first experience doing a shell (a mini UNIX command interpreter) and managing process creation and synchronisation. I followed [-> this subject <-](https://github.com/marina-mar/minishell/blob/master/minishell.en.pdf "-> this subject <-") rules to develop the shell.
 
 
 ------------
@@ -38,22 +38,22 @@ Clone this repositorie, after that execute those commands:
 ### &#9674; Resources
 ------------
 ##### Websites:
-[GETCWD( )](http://man7.org/linux/man-pages/man3/getcwd.3.html "GETCWD( )")
-[FORK( )](http://man7.org/linux/man-pages/man2/fork.2.html "FORK( )")
-[WAITPID( )](http://man7.org/linux/man-pages/man2/waitpid.2.html "WAITPID( )")
-[CHDIR( )](https://www.geeksforgeeks.org/chdir-in-c-language-with-examples/ "CHDIR( )")
-[EXECVE( )](http://man7.org/linux/man-pages/man2/execve.2.html "EXECV( )")
-[RAND ( )](https://www.tutorialspoint.com/c_standard_library/c_function_rand.htm "RAND ( )")
-[EXIT_SUCCESS and EXIT_FAILURE](https://en.cppreference.com/w/c/program/EXIT_status:// "EXIT_SUCCESS and EXIT_FAILURE")
-[cd Main Page](http://linuxcommand.sourceforge.net/lc3_man_pages/cdh.html "cd Main Page")
-[Var environ](http://man7.org/linux/man-pages/man7/environ.7.html "Var environ")
-[The Environment Access](https://www.gnu.org/software/libc/manual/html_node/Environment-Access.html "The Environment Access")
-[Standard Environment Variables](https://www.gnu.org/software/libc/manual/html_node/Standard-Environment.html#Standard-Environment "Standard Environment Variables")
-[Bitwise operators in C](https://www.programiz.com/c-programming/bitwise-operators "Bitwise operators in C")
-[Where's the temp folder](http://osxdaily.com/2018/08/17/where-temp-folder-mac-access/ "Where's the temp folder")
-[How to use waitpid( )](https://stackoverflow.com/questions/21248840/example-of-waitpid-in-use "How to use waitpid( )")
-[How to kill a process from the command line](https://www.linux.com/tutorials/how-kill-process-command-line/ "How to kill a process from the command line")
-[Adding color in C](http://web.theurbanpenguin.com/adding-color-to-your-output-from-c/ "Adding color in C")
+- [GETCWD( )](http://man7.org/linux/man-pages/man3/getcwd.3.html "GETCWD( )")
+- [FORK( )](http://man7.org/linux/man-pages/man2/fork.2.html "FORK( )")
+- [WAITPID( )](http://man7.org/linux/man-pages/man2/waitpid.2.html "WAITPID( )")
+- [CHDIR( )](https://www.geeksforgeeks.org/chdir-in-c-language-with-examples/ "CHDIR( )")
+- [EXECVE( )](http://man7.org/linux/man-pages/man2/execve.2.html "EXECV( )")
+- [RAND ( )](https://www.tutorialspoint.com/c_standard_library/c_function_rand.htm "RAND ( )")
+- [EXIT_SUCCESS and EXIT_FAILURE](https://en.cppreference.com/w/c/program/EXIT_status:// "EXIT_SUCCESS and EXIT_FAILURE")
+- [cd Main Page](http://linuxcommand.sourceforge.net/lc3_man_pages/cdh.html "cd Main Page")
+- [Var environ](http://man7.org/linux/man-pages/man7/environ.7.html "Var environ")
+- [The Environment Access](https://www.gnu.org/software/libc/manual/html_node/Environment-Access.html "The Environment Access")
+- [Standard Environment Variables](https://www.gnu.org/software/libc/manual/html_node/Standard-Environment.html#Standard-Environment "Standard Environment Variables")
+- [Bitwise operators in C](https://www.programiz.com/c-programming/bitwise-operators "Bitwise operators in C")
+- [Where's the temp folder](http://osxdaily.com/2018/08/17/where-temp-folder-mac-access/ "Where's the temp folder")
+- [How to use waitpid( )](https://stackoverflow.com/questions/21248840/example-of-waitpid-in-use "How to use waitpid( )")
+- [How to kill a process from the command line](https://www.linux.com/tutorials/how-kill-process-command-line/ "How to kill a process from the command line")
+- [Adding color in C](http://web.theurbanpenguin.com/adding-color-to-your-output-from-c/ "Adding color in C")
 
 ##### Books:
 
