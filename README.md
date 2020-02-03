@@ -37,9 +37,12 @@ This project was my first experience doing a shell (a mini UNIX command interpre
 
 ### &#9674; How to run It:
 ------------
-Clone this repositorie, after that execute those commands:
+Clone this repositorie, after that, execute those commands:
+
 1 | make all
+
 2 | ./minishell
+
 3 | test out the commands and enjoy this cozy shell!
 
 ### &#9674; Resources
