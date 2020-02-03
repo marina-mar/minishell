@@ -19,6 +19,7 @@ This project was my first experience doing a shell (a mini UNIX command interpre
 
 - A promt that reprints itself when a command finishes execution;
 - It executes any command found in the PATH provided by the environment and a few builtins:
+
      . cd
  
      . env
